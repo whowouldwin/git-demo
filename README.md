@@ -4,3 +4,4 @@ The Git-demo repository can be used as a learning resource for beginner develope
 Commit 1
 Commit 2
 Commit 3
+Commit 4
